@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-demo
+.env.local
+.env.*.local
+secrets/
+*.secret
+tests/visual/screenshots
+.DS_Store
